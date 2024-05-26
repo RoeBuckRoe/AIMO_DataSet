@@ -73,7 +73,6 @@ d7e9c9_m2bl,A function $f: \mathbb{N} \to \mathbb{N}$ has two rules for any posi
 82e2a0_mil,"Imagine rolling four 6-sided dice, each with faces numbered 1 to 6. The probability that the highest number rolled is a 3 can be expressed as $\frac{a}{b}$, where $a$ and $b$ are relatively prime integers. Determine the value of $a + b$.",185
 82e2a0_mel,"Roll four fair dice, each with sides numbered 1 to 6. If the probability that the highest roll is 6 is written as $\frac{a}{b}$ in simplest form, where $a$ and $b$ are coprime, what is $a + b$?",185
 82e2a0_mbl,"Suppose we roll four dice that each have numbers from 1 to 6. The chance that the biggest number rolled is a 2 is written as $\frac{a}{b}$, where $a$ and $b$ have no common factors. What is $a + b$?",185
-,"Let $k, l > 0$ be parameters. The parabola $y = kx^2 - 2kx + l$ intersects the line $y = 4$ at two points $A$ and $B$. These points are distance 6 apart. What is the sum of the squares of the distances from $A$ and $B$ to the origin?",52
 229ee8_r1,"Given a parabola defined by $y = kx^2 - 2kx + l$ where $k$ and $l$ are positive, and it intersects the line $y = 4$ at points $A$ and $B$ which are 6 units apart, find the sum of the squares of the distances from these points to the origin.",52
 229ee8_r2,"If the parabola $y = kx^2 - 2kx + l$  (with $k, l > 0$) intersects the horizontal line $y = 4$ at two points $A$ and $B$ that are separated by a distance of 6, what is the combined sum of the squared distances from $A$ and$B$ to the origin?",52
 229ee8_r3,"Consider the intersection of the parabola $y = kx^2 - 2kx + l$  and the line $y = 4$. Given that $k$ and $l$ are positive and the intersection points $A$ and $B$ are 6 units apart, calculate the sum of the squares of their distances from the origin.",52
@@ -89,13 +88,11 @@ d7e9c9_m2bl,A function $f: \mathbb{N} \to \mathbb{N}$ has two rules for any posi
 2fc4ad_r3,"Using the 'sparkle' operation that replaces a number $n$ with the factorial of the sum of its digits, how many numbers (with no more than 36 digits) are such that any number appearing after them will always be less than 6?",702
 2fc4ad_r4,How many special numbers exist (with at most 36 digits) such that applying the 'sparkle' operation repeatedly will eventually result in all numbers being below 6?,702
 2fc4ad_r5,"For the 'sparkle' operation that involves summing the digits of a number and taking the factorial, determine how many initial numbers (up to 36 digits) ensure that all future numbers in the sequence will be less than 6.",702
-,What is the minimum value of $5x^2+5y^2-8xy$ when $x$ and $y$ range over all real numbers such that $|x-2y| + |y-2x| = 40$?,
 430b63_r1,Find the smallest value of $5x^2+5y^2-8xy$ for real numbers $x$ and $y$ satisfying $|x-2y| + |y-2x| = 40$.,800
 430b63_r2,Determine the minimum value of  $5x^2+5y^2-8xy$ when $x$ and $y$ are real numbers that fulfill the condition $|x-2y| + |y-2x| = 40$.,800
 430b63_r3,What is the least possible value of the expression $5x^2+5y^2-8xy$ that $x$ and $y$ satisfy$|x-2y| + |y-2x| = 40$?,800
 430b63_r4,Calculate the minimum value of $5x^2+5y^2-8xy$ for real $x$ and $y$ such that $|x-2y| + |y-2x| = 40$.,800
 430b63_r5,"When $x$ and $y$ are real numbers with $5x^2+5y^2-8xy$, what is the minimum value of $|x-2y| + |y-2x| = 40$?",800
-,There exists a unique increasing geometric sequence of five 2-digit positive integers. What is their sum?,
 5277ed_r1,Find the sum of the only increasing geometric sequence consisting of five two-digit positive integers.,211
 5277ed_r2,What is the total sum of the five two-digit positive integers that form the unique increasing geometric sequence?,211
 5277ed_r3,Calculate the sum of the unique set of five two-digit numbers arranged in an increasing geometric sequence.,211
